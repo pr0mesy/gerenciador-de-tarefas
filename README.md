@@ -8,3 +8,4 @@ Esse é um simples gerenciador de tarefas desenvolvido em Python. Ele permite ad
 - **Marcar como Concluída**: Permite marcar tarefas como concluídas.
 - **Exibir por Prioridade**: Exibe as tarefas ordenadas por prioridade.
 - **Editar Tarefa**: Permite editar o título e a prioridade das tarefas já existentes.
+- **Excluir Tarefa**: Permite excluir tarefas criadas anteriormente
